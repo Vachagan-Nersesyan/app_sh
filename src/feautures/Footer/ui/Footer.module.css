@@ -1,0 +1,46 @@
+.footer_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.logo {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.logo_picture {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo_picture img {
+    width: 100%;
+}
+
+.logo_name {
+    /* display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column; */
+}
+
+.logo_name_1,
+.logo_name_2 {
+    font-size: 1em;
+    text-decoration: none;
+    color: black;
+}
+
+.footer_menu {
+    display: flex;
+    justify-content: flex-end;
+    border-bottom: none;
+    background-color: #F5F5F5;
+}

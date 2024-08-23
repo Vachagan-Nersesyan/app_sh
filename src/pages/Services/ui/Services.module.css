@@ -1,0 +1,28 @@
+.services_content {
+    padding-top: 4em;
+    min-height: 41.3em;
+}
+
+.container {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.services_content_title {
+    margin-bottom: 1em;
+    color: black;
+    text-align: center;
+    font-size: 2em;
+}
+
+
+.services_content_items {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.services_content_items_1 {
+    width: 100%;
+}

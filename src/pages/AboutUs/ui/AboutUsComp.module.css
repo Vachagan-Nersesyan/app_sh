@@ -1,0 +1,39 @@
+.main_content {
+    padding-top: 2em;
+    min-height: 41.3em;
+}
+
+.container {
+    margin: 0 auto;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main_content_2 {
+    width: 50%;
+    margin: 0 2em;
+}
+
+.main_content_2 img {
+    width: 100%;
+}
+
+.main_content_1 {
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main_content_1_1 {
+    text-align: center;
+    font-size: 2.3em;
+    color: #001529;
+    margin-bottom: .5em;
+}
+
+.main_content_1_2{
+    font-size: 1.3em;
+}

@@ -1,0 +1,33 @@
+.works_content {
+    padding-top: 3em;
+    min-height: 41.3em;
+}
+
+.container {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.works_content_title {
+    margin-bottom: 1em;
+    font-size: 2em;
+    text-align: center;
+}
+
+
+.carousel_content_ites_sect {
+    width: 100%;
+    height: 200% !important;
+}
+
+.carousel_content_item {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel_content_item img {
+    width: 100%;
+    height: 32em;
+}
