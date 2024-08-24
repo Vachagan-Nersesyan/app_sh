@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './Main.module.css'
-import picture from '../pictures/2.jpg'
+import picture from '../pictures/1.jpg'
 
 
 const MainComp = () => {
@@ -10,10 +10,7 @@ const MainComp = () => {
             <div className={styles.main_content_overlay}></div>
             <div className={styles.main_content_txt}>
                 <div className={styles.main_content_txt_1}>
-                    ՄԵՆՔ ՍՏԵՂԾՈՒՄ ԵՆՔ ՁԵՐ ԵՐԱԶԱՆՔԻ ԲՆԱԿԱՐԱՆԸ ԵՎ ԴԱՐՁՆՈՒՄ ԱՅՆ ԻՐԱԿԱՆՈՒԹՅՈՒՆ
-                </div>
-                <div className={styles.main_content_txt_2}>
-                    <img src={picture} alt="" />
+                    ՄԵՆՔ ԱՊԱՀՈՎՈՒՄ ԵՆՔ ՁԵՐ ՀԱՐՄԱՐԱՎԵՏՈՒԹՅՈՒՆԸ
                 </div>
             </div>
         </div>

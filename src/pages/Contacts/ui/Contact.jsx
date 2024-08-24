@@ -38,7 +38,7 @@ const ContactComp = () => {
                             Էլ․ փոստ։
                         </div>
                         <div className={styles.contact_items_1_2}>
-                            info@bedeck.am
+                            tekhnoVel@gmail.com
                         </div>
                     </div>
                 </div>

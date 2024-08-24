@@ -10,9 +10,7 @@ const FooterComp = () => {
     return (
         <Footer className={styles.footer_content}>
             <NavLink to={'/'} className={styles.logo}>
-                <div className={styles.logo_picture}>
-                    <img src={logo} />
-                </div>
+              
                 <div className={styles.logo_name}>
                     <span className={styles.logo_name_1}>TEKHNO </span>
                     <span className={styles.logo_name_2}>VELD</span>
